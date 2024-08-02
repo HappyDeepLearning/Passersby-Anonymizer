@@ -2,7 +2,7 @@
 
 ## Passersby-Anonymizer: Safeguard the Privacy of Passersby in Social Videos
 
-This respository contains the code for theIEEE-IJCB-2024 Special Session on Generative AI for Futuristic Biometrics paper ### Passersby-Anonymizer: Safeguard the Privacy of Passersby in Social Videos.
+This respository contains the code for theIEEE-IJCB-2024 Special Session on Generative AI for Futuristic Biometrics paper **Passersby-Anonymizer: Safeguard the Privacy of Passersby in Social Videos**.
 <div align="center">
     <a><img src="fig1_objective.png"  width="100%" ></a>
 </div>
